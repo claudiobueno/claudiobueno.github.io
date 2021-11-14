@@ -320,7 +320,7 @@ hr {
 .about{
     margin-left: 18%;
     font-size: 14px;
-    background-color: #f3f3f3;
+    background-color: #dacf9512;
     height: 100%;
     padding-bottom: 20vh;
 }
@@ -328,7 +328,7 @@ hr {
 .text{
     margin-left: 18%;
     font-size: 14px;
-    background-color: #f3f3f3;
+    background-color: #dacf9512;
     height: 100vh;
     padding-bottom: 20vh;
 }
@@ -577,3 +577,5 @@ hr {
 .vista{
     font: bold;
 }
+
+
