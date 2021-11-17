@@ -504,7 +504,7 @@ hr {
         width: 100%;
         transform: translateX(100%);
         font-size: 14px;
-        background-color: white;
+        background-color: rgb(255, 255, 255);
         padding-bottom: 20px;
     }
 
@@ -566,6 +566,9 @@ hr {
 
 .text{
     padding-left: 13vh;
+    padding-top: 13vh;
+    padding-right: 20vh;
+    text-align: justify;
 }
 
 .text h6{
@@ -578,4 +581,39 @@ hr {
     font: bold;
 }
 
+.slider{
+    margin-left: 18%;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.image0 img{
+    width: 49.8%;
+    position: relative;
+    margin-left: 18%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.work1:hover img{
+    filter:brightness(50%);
+}
+
+.work2:hover img{
+    filter:brightness(50%);
+}
+
+.work3:hover img{
+    filter:brightness(50%);
+}
+
+.work4:hover img{
+    filter:brightness(50%);
+}
+
+.work5:hover img{
+    filter:brightness(50%);
+}
